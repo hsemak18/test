@@ -1,7 +1,6 @@
 {
 	"GREETINGS": "${SALUTE},$ttt",
 	"SALUTE": "hi${COMMON_TERM}",
-	"COMMON_TERM": "there!",
-	"ttt": "hello"
+	"COMMON_TERM": "there!"
 	
 }
